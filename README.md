@@ -15,3 +15,5 @@ Zum bearbeiten einer Datei:
   - Branch zum Vergleichen auswählen
   - mit "Create Pull Request" können das alle anderen auch sehen
   - "Merge Pull Request" wird am besten mit der Version gemacht, die am besten vor Abgabe funktioniert
+
+Das ist eine veränderte Datei
