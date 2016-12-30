@@ -3,7 +3,7 @@ Repository für HÜ8
 
 Für jede Hausübung wird ein Repository erstellt. Darum kann ich mich kümmern.
 
-Jeder Nutzer kann in seiner eigenen "Branch" (z.B. Jonas' Ideen) seinen Code bzw. seine Vorschläge hochladen. In jeder Branch findet man die Kopie vom "master", dem Ausgangscode. Entweder einfach den Code per Copy-paste da einfügen, oder die Datei neu hochladen. Am master ändert sich vorerst nichts.
+Jeder Nutzer kann in seiner eigenen "Branch" (z.B. Jonas' Ideen) seinen Code bzw. seine Vorschläge hochladen. In jeder Branch findet man die Kopie vom "master", dem Ausgangscode. Entweder einfach den Code per Copy-paste da einfügen, oder die Datei neu hochladen.
 
 Zum bearbeiten einer Datei:
  - draufklicken
