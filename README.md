@@ -9,7 +9,7 @@ Zum bearbeiten einer Datei:
  - draufklicken
  - was ändern
  - Commit changes anklicken
- 
+
  Um Veränderungen in den Dateien zu sehen:
   - Auf das Tab "Pull Request" klicken
   - Branch zum Vergleichen auswählen
